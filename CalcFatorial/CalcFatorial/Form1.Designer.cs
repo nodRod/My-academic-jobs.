@@ -89,7 +89,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtNumero);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Programa Calculo Fatorial";
             this.ResumeLayout(false);
             this.PerformLayout();
 
