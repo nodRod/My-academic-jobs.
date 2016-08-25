@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\Desktop\CalculoFator\CalcFatorial\CalcFatorial\bin\Debug\CalcFatorial.exe.config
+C:\Users\Rodrigo\Desktop\CalculoFator\CalcFatorial\CalcFatorial\bin\Debug\CalcFatorial.exe
+C:\Users\Rodrigo\Desktop\CalculoFator\CalcFatorial\CalcFatorial\bin\Debug\CalcFatorial.pdb
+C:\Users\Rodrigo\Desktop\CalculoFator\CalcFatorial\CalcFatorial\obj\Debug\CalcFatorial.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\CalculoFator\CalcFatorial\CalcFatorial\obj\Debug\CalcFatorial.Form1.resources
+C:\Users\Rodrigo\Desktop\CalculoFator\CalcFatorial\CalcFatorial\obj\Debug\CalcFatorial.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\CalculoFator\CalcFatorial\CalcFatorial\obj\Debug\CalcFatorial.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\CalculoFator\CalcFatorial\CalcFatorial\obj\Debug\CalcFatorial.exe
+C:\Users\Rodrigo\Desktop\CalculoFator\CalcFatorial\CalcFatorial\obj\Debug\CalcFatorial.pdb
